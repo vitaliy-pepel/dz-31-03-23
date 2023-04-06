@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.Collection;
 import java.util.*;
 
-/*Сортировка слиянием - такая боль. Ножь мне в печень, пузырёк вечен! */
+/*Сортировка слиянием*/
 public class task1a {
     public static void main(String[] args) {
         Integer[] s = new Integer[10];
